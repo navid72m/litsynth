@@ -1,0 +1,26 @@
+# Pipeline state — never commit these
+checkpoints/
+synthesis_output.json
+
+# Input papers — too large, potentially copyrighted
+papers/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp

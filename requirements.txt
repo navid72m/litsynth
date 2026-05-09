@@ -1,0 +1,6 @@
+pdfplumber
+langchain-ollama
+langchain-core
+pydantic>=2.0
+gradio
+tqdm
